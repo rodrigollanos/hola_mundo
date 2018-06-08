@@ -1,5 +1,18 @@
 Prueba de rama local
 check out 2
-ere
+
+
+local_gfi
+Cambio desde local
+
 CAmbio por final_gfi.
 sdsdsdsddsdssddsdsdsds
+<<<<<<< HEAD
+=======
+final_gfi
+Cambios desde final
+
+
+ere
+
+>>>>>>> refs/remotes/origin/master
